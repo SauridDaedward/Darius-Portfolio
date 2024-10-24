@@ -16,7 +16,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} /> {/* Ensure Home is set for "/" path */}
         <Route path="/about" element={<About />} />
-        <Route path="/skills" element={<Skills />} /> {/* Ensure Skills has a route */}
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
