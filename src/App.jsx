@@ -4,7 +4,6 @@ import Footer from './components/Footer'; // Check this path is correct
 import ChatbotComponent from './components/chatbot'; // Check this path is correct
 import Home from './Pages/Home'; // Check paths for all pages
 import About from './Pages/About';
-import Skills from './Pages/Skills'; // Make sure Skills.jsx is in the Pages folder
 import Projects from './Pages/Projects';
 import Contact from './Pages/Contact';
 import './App.css'; // Ensure CSS is loaded
